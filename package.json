@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/edisemin/unit-testing#readme",
   "devDependencies": {
-    "jest": "^28.1.2"
+    "jest": "^28.1.2",
+    "jest-each": "^28.1.1"
   }
 }
