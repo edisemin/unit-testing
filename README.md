@@ -7,4 +7,6 @@ This repository contains example code for unit testing with Javascript.
 
 ## Development
 
+All testing is done using Jest.
+
 - Run tests with `npm run test`
