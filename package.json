@@ -1,0 +1,19 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "This repository contains example code for unit testing with Javascript.",
+  "main": "jj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisemin/unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edisemin/unit-testing/issues"
+  },
+  "homepage": "https://github.com/edisemin/unit-testing#readme"
+}
