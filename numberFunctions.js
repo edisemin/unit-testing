@@ -11,4 +11,7 @@ const getSmallest = (a, b, c) => {
 
 // Export function 
 
-module.exports = getLargest;
+module.exports = {
+    getLargest,
+    getSmallest
+}
